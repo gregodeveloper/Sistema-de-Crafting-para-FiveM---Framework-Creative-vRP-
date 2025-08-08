@@ -1,4 +1,4 @@
-# Sistema de Crafting para FiveM - Framework Creative (vRP)
+# Crafting - Framework Creative (vRP)
 
 Sistema de **crafting** desenvolvido para servidores **FiveM (GTA V)** utilizando a **framework Creative**.
 Permite que jogadores criem itens a partir de recursos, respeitando peso, permissões e profissões configuradas no servidor.
